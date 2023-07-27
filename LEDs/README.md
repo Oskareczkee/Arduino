@@ -6,7 +6,7 @@ LEDs Itself are pretty much advanced. Simple commands are provided to change var
 ### Implemented Functions
 - Linear Gradient
 - Simple command interface
-- Multiple lighting modes (gradient, static, police)  
+- Multiple lighting modes (gradient, static, police, Morse Code message)  
 
 Sadly I cannot implement more modes due to memory limitations.
 I do not have any scheme of electronics, so building this on our own is harder  
