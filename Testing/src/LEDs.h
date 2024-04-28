@@ -402,8 +402,7 @@ namespace LEDs
             void loop()
             {
                 checkStates();
-
-                if(getPhotoresistorRead()<150)
+                if(getPhotoresistorRead()<500)
                 {
                     switch (getMode())
                     {
